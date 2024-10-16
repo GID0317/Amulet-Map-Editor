@@ -62,6 +62,9 @@ app.browser_open_tooltip=Clicking will open the page in your browser
 
 world.java_platform=Java
 world.bedrock_platform=Bedrock
+world.bedrock_education_store=Education Edition (Store)
+world.bedrock_education_desktop=Education Edition (Desktop)
+world.bedrock_netease=Bedrock (Netease)
 world.close_world=Close World
 
 # Menu bar
@@ -80,6 +83,8 @@ main_menu.open_world=Open World
 main_menu.user_manual=User Manual
 main_menu.bug_tracker=Bug Tracker
 main_menu.discord=Amulet Discord
+main_menu.our_sponsors=Our Sponsors
+main_menu.sponsor_link=(Sponsor us to get your name here)
 
 # Language Select
 language_select.title=Language Select
@@ -143,6 +148,7 @@ program_3d_edit.canvas.java_rp_failed=Failed to download the latest Java resourc
 program_3d_edit.canvas.java_rp_failed_default=Check your internet connection and restart Amulet.
 program_3d_edit.canvas.java_rp_failed_mac_certificates=The certificates to access the internet were not installed.\nRun the "Install Certificates.command" program that can be found in "Applications/Python 3.x".
 program_3d_edit.canvas.loading_resource_packs=Loading resource packs
+program_3d_edit.canvas.retry_download=Failed to download the resource pack. Do you want to retry?
 program_3d_edit.canvas.creating_texture_atlas=Creating texture atlas
 program_3d_edit.canvas.setting_up_renderer=Setting up renderer
 
